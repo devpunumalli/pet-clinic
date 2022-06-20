@@ -46,7 +46,7 @@
 		</plugins>
 	</build>
 <scm>
-	<developerConnection>git@github.com:devpunumalli/pet-clinic.git</developerConnection>
+	<developerConnection>scm:git:https://github.com/devpunumalli/pet-clinic.git</developerConnection>
 	  <tag>rel</tag>
   </scm>
 </project>
