@@ -6,13 +6,13 @@
     <parent>
         <groupId>com.dev</groupId>
         <artifactId>petclinic</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
 
     </parent>
 
     <groupId>com.dev.test</groupId>
     <artifactId>pet-clinic-data</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1</version>
     <name>pet-clinic-data</name>
     <description>Demo project for Spring Boot</description>
     <properties>
