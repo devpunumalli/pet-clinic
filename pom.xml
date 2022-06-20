@@ -18,7 +18,7 @@
 	<packaging>pom</packaging>
 	<groupId>com.dev</groupId>
 	<artifactId>petclinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>petclinic</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -47,5 +47,6 @@
 	</build>
 <scm>
 	<developerConnection>scm:git:git@github.com:devpunumalli/pet-clinic.git</developerConnection>
+    <tag>petclinic-0.0.1</tag>
   </scm>
 </project>
